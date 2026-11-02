@@ -1,4 +1,6 @@
-# AURELLE® — Editorial skincare storefront
+# AURELLE®
+
+An editorial skincare storefront.
 
 An original, responsive, frontend-only ecommerce portfolio concept. Created as an independent skincare brand study, not a clone of another website.
 
